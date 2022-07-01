@@ -19,3 +19,5 @@ include ':sample-ar-model-viewer'
 project(':sample-ar-model-viewer').projectDir = new File('samples/ar-model-viewer')
 include ':sample-model-viewer'
 project(':sample-model-viewer').projectDir = new File('samples/model-viewer')
+include ':sample-ml-kit'
+project(':sample-ml-kit').projectDir = new File('samples/ml-kit')
