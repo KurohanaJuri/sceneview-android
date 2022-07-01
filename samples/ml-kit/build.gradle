@@ -50,4 +50,8 @@ dependencies {
 
     // Material
     implementation 'com.google.android.material:material:1.5.0'
+
+    // MLKit
+    implementation 'com.google.mlkit:object-detection:16.2.3'
+    implementation 'com.google.mlkit:object-detection-custom:16.3.1'
 }
